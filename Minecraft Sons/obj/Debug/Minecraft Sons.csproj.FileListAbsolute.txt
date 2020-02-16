@@ -1,0 +1,6 @@
+C:\Users\Computador\Documents\Visual Studio 2015\Projects\Minecraft Sons\bin\Debug\Minecraft Sons.exe.config
+C:\Users\Computador\Documents\Visual Studio 2015\Projects\Minecraft Sons\obj\Debug\Minecraft Sons.exe
+C:\Users\Computador\Documents\Visual Studio 2015\Projects\Minecraft Sons\obj\Debug\Minecraft Sons.pdb
+C:\Users\Computador\Documents\Visual Studio 2015\Projects\Minecraft Sons\bin\Debug\Minecraft Sons.exe
+C:\Users\Computador\Documents\Visual Studio 2015\Projects\Minecraft Sons\bin\Debug\Minecraft Sons.pdb
+C:\Users\Computador\Documents\Visual Studio 2015\Projects\Minecraft Sons\obj\Debug\Minecraft Sons.csprojResolveAssemblyReference.cache
